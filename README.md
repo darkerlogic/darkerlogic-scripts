@@ -17,7 +17,7 @@ To check right away, open the Tampermonkey dashboard and choose **Check for user
 
 | Script | Site | What it does | Install |
 |---|---|---|---|
-| _None yet_ | | | |
+| Hide Valnet Ad Blocker Popup | XDA, How-To Geek, Android Police, Pocket-lint, Screen Rant, Game Rant, CBR | Removes the "ad blocker detected" popup so articles stay readable and scrollable | [Install](https://raw.githubusercontent.com/darkerlogic/darkerlogic-scripts/main/scripts/valnet/hide-adblock-popup.user.js) |
 
 See [CHANGELOG.md](CHANGELOG.md) for what changed in each version.
 
